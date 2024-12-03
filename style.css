@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+header {
+  background:url("476358-Japantown-Sf.avif");
+  background-size: cover;
+  color: white;
+}
+h1 {
+  font-size: 40px;
+  background-color: white;
+  color: black;
+}
+img {
+  margin: 40px 0px 40px 0px;
+}
+ul {
+  padding: 10x;
+  background: grey;
+}
+header {
+  background-position: center;
+}
